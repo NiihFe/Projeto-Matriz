@@ -45,4 +45,4 @@ A rede simulada contempla:
 
 
 ## 👩‍🎓 Autoria
-Projeto desenvolvido por **Nicoly estudante do curso de Análise e Desenvolvimento de Sistemas (ADS) – UTFPR Ponta Grossa**.
+Projeto desenvolvido por **Nicoly, estudante do curso de Análise e Desenvolvimento de Sistemas (ADS) – UTFPR Ponta Grossa**.
